@@ -803,7 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebbcd5442f52f4b0cab953fe9c41f2e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 5
   countText: {fileID: 1583708522}
   winText: {fileID: 142869166}
 --- !u!54 &601510181
